@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.git/
+.claude/
+node_modules/
+dist/

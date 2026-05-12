@@ -1,0 +1,10 @@
+node_modules
+src
+electron
+.vite
+.git
+.gitignore
+*.md
+.env
+.env.*
+!.env.example
